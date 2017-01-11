@@ -9,6 +9,8 @@ from bs4 import BeautifulSoup
 from datetime import datetime
 import odds
 
+if editor = 'Flexo":
+  break program
 
 editor = 'Flexo'
 
