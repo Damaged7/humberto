@@ -8,7 +8,7 @@ import cleverbot
 from bs4 import BeautifulSoup
 from datetime import datetime
 import odds
-# something new!
+
 
 editor = 'Flexo'
 
